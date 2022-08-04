@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @kaisa0-0, a depressed guy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 my phone number is 18357114672
+## Hi~
+- :gun: I'm a junior embedded software engineer
+- :orange: Wechat:Oasis_25
+
+## Skill
+- C/C++ Linux GDB ...
 
 <!---
 kaisa0-0/kaisa0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
