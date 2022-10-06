@@ -1,9 +1,12 @@
 ## Hi~
-- :gun: I'm a junior embedded software engineer
+- :gun: I'm a junior software engineer
 - :orange: Wechat:Oasis_25
 
 ## Skill
-- C/C++ Linux GDB ...
+- C/C++ Python Shell HTML CSS JS Vue Rust ...
+
+## Interest
+- front-end development
 
 <!---
 kaisa0-0/kaisa0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
